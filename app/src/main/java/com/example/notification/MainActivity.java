@@ -13,7 +13,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String CHANNEL_ID = "6162296e617961" ;
+    private static final String CHANNEL_ID = "6162696e617961" ;
     Button Login;
     NotificationCompat.Builder builder;
     NotificationManagerCompat notificationManager;
