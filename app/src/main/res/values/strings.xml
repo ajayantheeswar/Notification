@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="channel_name">Notification_channel</string>
+    <string name="channel_description">This is the Discribtion</string>
+    <string name="login">Login</string>
+</resources>
